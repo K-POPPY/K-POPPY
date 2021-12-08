@@ -2,7 +2,7 @@
 ### ♥ଘ(੭˃ᴗ˂)੭✧* ੈ✩‧₊˚
 ### 어서오세요! 뽀삐의 GitHub에 오신걸 환영해요 👋
 ### 뽀삐는 오래된 나의 별명 == 가장 좋아하는 꽃 양귀비의 영어이름 POPPY 👯🌱 
-![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635739622/portfolio_img/favicon/apple-icon-57x57_a6uvgr.png)
 
 
 <!--
