@@ -1,6 +1,12 @@
-### Hi there 👋
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✧*˚뽀삐의GitHub˚*✧&capsule%20render&fontSize=60)
+### ♥ଘ(੭˃ᴗ˂)੭✧* ੈ✩‧₊˚
+### 어서오세요! 뽀삐의 GitHub에 오신걸 환영해요 👋
+### 뽀삐는 오래된 나의 별명 == 가장 좋아하는 꽃 양귀비의 영어이름 POPPY 👯🌱 
+[![flowerpoppy](http://bb680333.dothome.co.kr/pavicon/pavicon.png)](http://yeablisher.dothome.co.kr/)
+https://github-readme-stats.vercel.app/api?username={K-POPPY}
+https://github-readme-stats.vercel.app/api/top-langs/?username={K-POPPY}
 <!--
+
 **K-POPPY/K-POPPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
