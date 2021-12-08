@@ -1,4 +1,3 @@
-![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635739624/portfolio_img/logo_kdzuid.png)
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✧*˚뽀삐의GitHub˚*✧&capsule%20render&fontSize=60)
 ### ♥ଘ(੭˃ᴗ˂)੭✧* ੈ✩‧₊˚
 ### 어서오세요! 뽀삐의 GitHub에 오신걸 환영해요 👋
@@ -8,6 +7,7 @@
 ![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635780694/portfolio_img/pro_li_x0wgw1.png)
 
 <!--
+![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635739624/portfolio_img/logo_kdzuid.png)
 **K-POPPY/K-POPPY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
