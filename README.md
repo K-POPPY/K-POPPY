@@ -3,7 +3,8 @@
 ### 어서오세요! 뽀삐의 GitHub에 오신걸 환영해요 👋
 ### 뽀삐는 오래된 나의 별명 == 가장 좋아하는 꽃 양귀비의 영어이름 POPPY 👯🌱 
 ![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635739622/portfolio_img/favicon/apple-icon-57x57_a6uvgr.png)
-
+![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635854934/portfolio_img/logo_Lt170_o08fyj.png)
+![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635780694/portfolio_img/pro_li_x0wgw1.png)
 
 <!--
 
