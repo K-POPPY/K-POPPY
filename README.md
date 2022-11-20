@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✧*˚뽀삐의GitHub˚*✧&capsule%20render&fontSize=60)   
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✧*˚POPPY의 GitHub˚*✧&capsule%20render&fontSize=60)   
 
   ### ♥ଘ(੭˃ᴗ˂)੭✧* ੈ✩‧₊˚
   ### 어서오세요! 뽀삐의 GitHub에 오신걸 환영해요 👋
