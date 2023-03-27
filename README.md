@@ -2,10 +2,15 @@
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=✧*˚POPPY의GitHub˚*✧&capsule%20render&fontSize=60)   
   
+  ![Poppy's GitHub stats](https://github-readme-stats.vercel.app/api?username=K-POPPY&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=K-POPPY&6810779s&layout=compact&theme=radical)
+  
+  ---
+  <br />
 
   ### ♥ଘ(੭˃ᴗ˂)੭✧* ੈ✩‧₊˚
   ### 어서오세요! 뽀삐의 GitHub에 오신걸 환영해요 👋
-  ### 뽀삐는 오래된 나의 별명 == 가장 좋아하는 꽃 양귀비의 영문이름 POPPY 👯🌱   
+  ### 뽀삐는 오래된 나의 애칭 == 가장 좋아하는 꽃 양귀비의 영문이름 POPPY 👯🌱   
   
   ![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635739623/portfolio_img/favicon/apple-icon-120x120_jz66st.png)
   ![flowerpoppy](https://res.cloudinary.com/dygttvrql/image/upload/v1635739623/portfolio_img/favicon/apple-icon-120x120_jz66st.png)
